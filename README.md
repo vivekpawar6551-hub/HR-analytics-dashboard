@@ -41,6 +41,10 @@ Project Objective
 
 The main objective of this project is to transform raw HR data into meaningful insights that help businesses make better workforce and employee retention decisions.
 
+
+<img width="1339" height="745" alt="HR_Analytics_Dashboard png" src="https://github.com/user-attachments/assets/4163efd6-1508-4400-ac0b-a6663138e2f3" />
+
+
 Author
 
 Vivek Pawar
